@@ -1,0 +1,5 @@
+version: '3'
+services:
+  eth-blockchain-parser:
+    build: .
+    tty: true
